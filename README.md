@@ -1,8 +1,7 @@
 # Station Information
 Display public transport information on your garmin watch
 
-
-
+![screenshot on device]("./img/screenshot.png")
 
 The app was developed with the MVC framework architectural pattern.
 The repo contains the eclipse project folder and source code. 
