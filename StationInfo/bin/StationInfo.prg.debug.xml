@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="3" lineNum="21" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="3" lineNum="22" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="4" lineNum="26" pc="268435479" symbol="onLayout"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="4" lineNum="29" pc="268435483" symbol="onLayout"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="4" lineNum="30" pc="268435502" symbol="onLayout"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="5" lineNum="36" pc="268435528" symbol="onShow"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="6" lineNum="41" pc="268435533" symbol="onUpdate"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="6" lineNum="45" pc="268435537" symbol="onUpdate"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="6" lineNum="46" pc="268435577" symbol="onUpdate"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="6" lineNum="47" pc="268435589" symbol="onUpdate"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="6" lineNum="48" pc="268435629" symbol="onUpdate"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="6" lineNum="50" pc="268435650" symbol="onUpdate"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="6" lineNum="51" pc="268435664" symbol="onUpdate"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="6" lineNum="52" pc="268435678" symbol="onUpdate"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="6" lineNum="55" pc="268435682" symbol="onUpdate"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="7" lineNum="63" pc="268435777" symbol="onHide"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="8" lineNum="66" pc="268435782" symbol="drawTable"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="8" lineNum="69" pc="268435786" symbol="drawTable"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="8" lineNum="82" pc="268435853" symbol="drawTable"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="8" lineNum="85" pc="268435871" symbol="drawTable"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="9" lineNum="96" pc="268435991" symbol="onDownload"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="9" lineNum="98" pc="268435995" symbol="onDownload"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="9" lineNum="101" pc="268436009" symbol="onDownload"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="9" lineNum="102" pc="268436027" symbol="onDownload"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="9" lineNum="103" pc="268436049" symbol="onDownload"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="9" lineNum="104" pc="268436071" symbol="onDownload"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="9" lineNum="107" pc="268436106" symbol="onDownload"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="9" lineNum="108" pc="268436125" symbol="onDownload"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="9" lineNum="111" pc="268436141" symbol="onDownload"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="9" lineNum="112" pc="268436161" symbol="onDownload"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoView.mc" id="9" lineNum="114" pc="268436174" symbol="onDownload"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoDelegate.mc" id="11" lineNum="9" pc="268436191" symbol="initialize"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoDelegate.mc" id="12" lineNum="13" pc="268436196" symbol="onSelect"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoDelegate.mc" id="12" lineNum="14" pc="268436200" symbol="onSelect"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoDelegate.mc" id="12" lineNum="15" pc="268436221" symbol="onSelect"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoApp.mc" id="14" lineNum="12" pc="268436238" symbol="onStart"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoApp.mc" id="14" lineNum="13" pc="268436242" symbol="onStart"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoApp.mc" id="14" lineNum="14" pc="268436272" symbol="onStart"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoApp.mc" id="14" lineNum="15" pc="268436324" symbol="onStart"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoApp.mc" id="15" lineNum="19" pc="268436355" symbol="onStop"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoApp.mc" id="16" lineNum="23" pc="268436360" symbol="getInitialView"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoApp.mc" id="16" lineNum="24" pc="268436364" symbol="getInitialView"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="19" lineNum="16" pc="268436410" symbol="initialize"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="19" lineNum="17" pc="268436414" symbol="initialize"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="19" lineNum="18" pc="268436424" symbol="initialize"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="20" lineNum="21" pc="268436437" symbol="fetchData"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="20" lineNum="22" pc="268436441" symbol="fetchData"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="20" lineNum="24" pc="268436462" symbol="fetchData"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="20" lineNum="25" pc="268436479" symbol="fetchData"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="20" lineNum="27" pc="268436488" symbol="fetchData"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="20" lineNum="32" pc="268436543" symbol="fetchData"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="21" lineNum="37" pc="268436565" symbol="onReceiveData"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="21" lineNum="38" pc="268436569" symbol="onReceiveData"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="21" lineNum="39" pc="268436580" symbol="onReceiveData"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="21" lineNum="40" pc="268436593" symbol="onReceiveData"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="21" lineNum="43" pc="268436626" symbol="onReceiveData"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="21" lineNum="44" pc="268436644" symbol="onReceiveData"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="21" lineNum="45" pc="268436657" symbol="onReceiveData"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="21" lineNum="46" pc="268436713" symbol="onReceiveData"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="21" lineNum="47" pc="268436747" symbol="onReceiveData"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="21" lineNum="52" pc="268436816" symbol="onReceiveData"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="21" lineNum="55" pc="268436845" symbol="onReceiveData"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="21" lineNum="56" pc="268436866" symbol="onReceiveData"/>
+        <entry filename="/Users/houssamnaous/eclipse-workspace/StationInfo/source/StationInfoModel.mc" id="21" lineNum="57" pc="268436884" symbol="onReceiveData"/>
+        <entry filename="Rez" id="27" lineNum="16" pc="268436903" symbol="MainLayout"/>
+        <entry filename="Rez" id="27" lineNum="18" pc="268436915" symbol="MainLayout"/>
+        <entry filename="Rez" id="27" lineNum="19" pc="268437034" symbol="MainLayout"/>
+        <entry filename="Rez" id="27" lineNum="21" pc="268437086" symbol="MainLayout"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="37" method="true" symbol="onDownload"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8388637" module="true" symbol="Communications"/>
+        <entry id="12" object="true" symbol="TimeTable"/>
+        <entry id="10" object="true" symbol="StationInfoDelegate"/>
+        <entry id="13" object="true" symbol="StationInfoModel"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="36" method="true" symbol="drawTable"/>
+        <entry field="true" id="27" symbol="Model"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry field="true" id="14" symbol="vehicle_num"/>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="20" method="true" symbol="MainLayout"/>
+        <entry field="true" id="15" symbol="destination"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="11" object="true" symbol="StationInfoApp"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="8389710" symbol="mTime"/>
+        <entry field="true" id="34" symbol="dcHeight"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="21" symbol="AppName"/>
+        <entry field="true" id="8389250" symbol="timestamp"/>
+        <entry field="true" id="19" symbol="LauncherIcon"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="33" symbol="textFont"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="23" symbol="TRANSPORT_URL"/>
+        <entry field="true" id="18" symbol="id_monkey"/>
+        <entry field="true" id="24" symbol="notify"/>
+        <entry field="true" id="22" symbol="timetable"/>
+        <entry field="true" id="31" symbol="mDest"/>
+        <entry field="true" id="35" symbol="dcWidth"/>
+        <entry id="16" module="true" symbol="Layouts"/>
+        <entry id="26" method="true" symbol="onReceiveData"/>
+        <entry id="25" method="true" symbol="fetchData"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="8389023" object="true" symbol="View"/>
+        <entry field="true" id="28" symbol="Delegate"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="30" symbol="mNumber"/>
+        <entry id="17" module="true" symbol="Menus"/>
+        <entry field="true" id="32" symbol="heightSplitter"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="29" symbol="commConf"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="9" object="true" symbol="StationInfoView"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435528" name="dc" stackId="1" startPc="268435479"/>
+        <entry endPc="268435777" name="dc" stackId="1" startPc="268435533"/>
+        <entry endPc="268435990" name="i" stackId="2" startPc="268435871"/>
+        <entry endPc="268435991" name="dc" stackId="1" startPc="268435782"/>
+        <entry endPc="268436106" name="i" stackId="2" startPc="268436027"/>
+        <entry endPc="268436191" name="timetable" stackId="1" startPc="268435991"/>
+        <entry endPc="268436355" name="state" stackId="1" startPc="268436238"/>
+        <entry endPc="268436360" name="state" stackId="1" startPc="268436355"/>
+        <entry endPc="268436437" name="handler" stackId="1" startPc="268436410"/>
+        <entry endPc="268436803" name="station_board" stackId="4" startPc="268436644"/>
+        <entry endPc="268436816" name="i" stackId="3" startPc="268436644"/>
+        <entry endPc="268436903" name="responseCode" stackId="1" startPc="268436565"/>
+        <entry endPc="268436903" name="data" stackId="2" startPc="268436565"/>
+        <entry endPc="268437103" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268436915"/>
+        <entry endPc="268437104" name="dc" stackId="1" startPc="268436903"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="206" parentId="globals" symbolId="StationInfoDelegate" type="class"/>
+        <dataEntry offset="261" parentId="globals" symbolId="TimeTable" type="class"/>
+        <dataEntry offset="332" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="411" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="458" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="489" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="520" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="559" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="590" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="629" parentId="globals" symbolId="StationInfoModel" type="class"/>
+        <dataEntry offset="716" parentId="globals" symbolId="StationInfoApp" type="class"/>
+        <dataEntry offset="811" parentId="globals" symbolId="StationInfoView" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="StationInfoView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="StationInfoView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="StationInfoView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="StationInfoView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="StationInfoView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawTable" parent="StationInfoView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onDownload" parent="StationInfoView">
+            <param id="timetable"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="StationInfoDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="StationInfoDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="StationInfoApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="StationInfoApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="StationInfoApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="StationInfoModel">
+            <param id="handler"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="fetchData" parent="StationInfoModel">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onReceiveData" parent="StationInfoModel">
+            <param id="responseCode"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
