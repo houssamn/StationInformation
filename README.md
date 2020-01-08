@@ -16,6 +16,8 @@ Dependencies:
 
 
 TODO:
-* Dynamically update
+* Dynamically update GPS coordinates
+* Pagination
 * Custom Screens
 * Display Icons to show bus/tram/ferry
+
